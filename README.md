@@ -1,2 +1,2 @@
-# DanceMatcher-AI_dacne_motion_retrieval_system
+# AI 기반 k-pop 안무 유사도 분석 시스템
 2025학년도 상명대학교 빅데이터융합학부 캡스톤디자인 작품입니다.
